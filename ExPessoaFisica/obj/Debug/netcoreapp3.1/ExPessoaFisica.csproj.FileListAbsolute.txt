@@ -1,0 +1,13 @@
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\bin\Debug\netcoreapp3.1\ExPessoaFisica.exe
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\bin\Debug\netcoreapp3.1\ExPessoaFisica.deps.json
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\bin\Debug\netcoreapp3.1\ExPessoaFisica.runtimeconfig.json
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\bin\Debug\netcoreapp3.1\ExPessoaFisica.runtimeconfig.dev.json
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\bin\Debug\netcoreapp3.1\ExPessoaFisica.dll
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\bin\Debug\netcoreapp3.1\ExPessoaFisica.pdb
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\obj\Debug\netcoreapp3.1\ExPessoaFisica.csprojAssemblyReference.cache
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\obj\Debug\netcoreapp3.1\ExPessoaFisica.AssemblyInfoInputs.cache
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\obj\Debug\netcoreapp3.1\ExPessoaFisica.AssemblyInfo.cs
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\obj\Debug\netcoreapp3.1\ExPessoaFisica.csproj.CoreCompileInputs.cache
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\obj\Debug\netcoreapp3.1\ExPessoaFisica.dll
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\obj\Debug\netcoreapp3.1\ExPessoaFisica.pdb
+C:\Users\Dericks\Desktop\Programação C#\Capítulo 10 - Herança e Polimorfismo\ExPessoaFisica\ExPessoaFisica\obj\Debug\netcoreapp3.1\ExPessoaFisica.genruntimeconfig.cache
